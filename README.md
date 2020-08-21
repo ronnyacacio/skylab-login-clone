@@ -32,7 +32,7 @@
 
 ## 💻 Projeto
 
-Esse projeto foi feito para treinar a minha habilidade de criação de UI's com ReactJS. Além disso, visando a simplificação e produtividade fiz uso de Next JS em conjunto com o desing system Chakra UI, foi escolhido o skylab-login por conta da sua simples e bonita interface! Sendo assim seria muito produtivo realizar esse clone! Acesse aqui [Skylab-login-clone](#)
+Esse projeto foi feito para treinar a minha habilidade de criação de UI's com ReactJS. Além disso, visando a simplificação e produtividade fiz uso de Next JS em conjunto com o desing system Chakra UI, foi escolhido o skylab-login por conta da sua simples e bonita interface! Sendo assim seria muito produtivo realizar esse clone! Acesse aqui [Skylab-login-clone](https://skylab-login-clone-gamma.vercel.app)
 
 <br />
 
@@ -54,9 +54,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br />
 
-## 🔨 Deploy Netlify
+## 🔨 Deploy WEB: Vercel
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/81588eaa-3fe4-4651-b7c7-ef5874c4b3ed/deploy-status)](https://app.netlify.com/sites/skylab-login-clone/deploys)
+[![Deploy with Vercel](https://vercel.com/button?color=000)](https://vercel.com/ronnyacacio/skylab-login-clone)
 
 <br />
 
