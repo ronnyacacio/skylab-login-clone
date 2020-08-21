@@ -56,6 +56,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔨 Deploy Netlify
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/81588eaa-3fe4-4651-b7c7-ef5874c4b3ed/deploy-status)](https://app.netlify.com/sites/skylab-login-clone/deploys)
+
 <br />
 
 <p align="center">
